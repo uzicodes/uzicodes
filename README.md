@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a Computer Science Engineering student with a strong foundation in computer networking, database management <br>👯Currently, I’m enhancing my leadership skills in the Aspire program and exploring projects in seat rotation and simulation.<br>🌱 Passionate about problem-solving and continuously expanding my technical skills. <br>⚡Excited to collaborate and contribute to impactful projects!<br><br><br> <br><br> <br> <br> 
+👋 Hi there! I’m a Computer Science Engineering student with a strong foundation in computer networking, DBMS, Algorithms <br>👯Currently, I’m enhancing my leadership skills in the Aspire program and exploring projects in seat rotation and simulation.<br>🌱 Passionate about problem-solving and continuously expanding my technical skills. <br>⚡Excited to collaborate and contribute to impactful projects!<br><br><br> <br><br> <br> <br> 
 
 
 ## 🌐 Socials:
