@@ -25,13 +25,14 @@
 </a>
 &nbsp;
 <a href="https://x.com/utsh0w" target="_blank">
-<img src="https://seeklogo.com/images/X/x-new-twitter-logo-93951DE2C5-seeklogo.com.png" alt="X" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/X_logo_2023_original.svg" alt="X" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@_utsho_" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_(2017).svg" alt="YouTube" width="40" height="40" />
 </a>
 </p>
+
 
 
 
