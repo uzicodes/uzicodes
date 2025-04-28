@@ -15,13 +15,14 @@
 
 <div style="flex: 1; min-width: 250px; text-align: center; padding: 10px;">
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Boy" width="300"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNrMGQxbmJzOXRmdzBrZnlyNm1yNHAxa2wzOThubGV4dHQ2NnJ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Boy" width="300"/>
 
 </div>
 
 </div>
 
 </div>
+
 
 
 
