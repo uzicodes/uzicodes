@@ -25,7 +25,7 @@
 </a>
 &nbsp;
 <a href="https://x.com/utsh0w" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/X_logo_2023_original.svg" alt="X" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@_utsho_" target="_blank">
