@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
   <br><br>
-  <span style="font-size:30px; font-weight:bold;">💫 About Me</span>
+  <span style="font-size:40px; font-weight:bold; text-decoration:none;">💫 About Me</span>
   <br><br>
 </p>
 
@@ -29,10 +29,10 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  <br><br>
-  <span style="font-size:24px; font-weight:bold;">🌐 Connect with me</span>
+  <span style="font-size:40px; font-weight:bold; text-decoration:none;">🌐 Connect with me</span>
   <br><br>
 </p>
 
@@ -60,10 +60,10 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  <br><br>
-  <span style="font-size:24px; font-weight:bold;">💻 Tech Stack</span>
+  <span style="font-size:40px; font-weight:bold; text-decoration:none;">💻 Tech Stack</span>
   <br><br>
 </p>
 
@@ -96,10 +96,10 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  <br><br>
-  <span style="font-size:24px; font-weight:bold;">📊 GitHub Stats</span>
+  <span style="font-size:40px; font-weight:bold; text-decoration:none;">📊 GitHub Stats</span>
   <br><br>
 </p>
 
