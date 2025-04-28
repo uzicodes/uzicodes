@@ -5,17 +5,19 @@
 ⚡ Excited to collaborate and contribute to impactful projects!<br><br><br>
 
 ## 🌐 Connect with me:
+
 <p align="center">
-<a href="https://facebook.com/utsh0z" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/></a>
+<a href="https://facebook.com/utshoxxx" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/></a>
 &nbsp;
-<a href="https://instagram.com/utsho0x" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
+<a href="https://instagram.com/utsho.x" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/utsho-heaven-chowdhury" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 &nbsp;
-<a href="https://x.com/utsh0w" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="40" height="40"/></a>
+<a href="https://x.com/utsh0x" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="40" height="40"/></a>
 &nbsp;
 <a href="https://youtube.com/@_utsho_" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40"/></a>
 </p>
+
 
 # 💻 Tech Stack:
 <div align="center">
