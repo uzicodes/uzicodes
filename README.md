@@ -1,10 +1,8 @@
 # 💫 About Me:
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 250px; text-align: left; padding: 10px;">
+<div style="flex: 1; min-width: 300px; text-align: left; padding: 20px;">
 
 👋 Hi there! I’m a Computer Science Engineering student with a strong foundation in computer networking, DBMS, Algorithms, Software Programming & Analysis, and I'm an AI enthusiast.<br><br>
 👯 Currently enhancing my leadership skills in the Aspire program and exploring projects in seat rotation and simulation.<br><br>
@@ -13,19 +11,13 @@
 
 </div>
 
-<div style="flex: 1; min-width: 250px; text-align: center; padding: 10px;">
+<div style="flex: 1; min-width: 300px; text-align: center; padding: 20px;">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNrMGQxbmJzOXRmdzBrZnlyNm1yNHAxa2wzOThubGV4dHQ2NnJ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Boy" width="300"/>
-
-</div>
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Boy" width="300"/>
 
 </div>
 
 </div>
-
-
-
-
 
 ---
 
@@ -96,4 +88,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=uzicodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
