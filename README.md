@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center"> 💫 About Me </h1>
 
 <div align="center">
 
@@ -26,16 +26,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
+---
 
-
-## 🌐 Connect with me:
+<h2 align="center"> 🌐 Connect with me </h2>
 
 <p align="center">
-<a href="https://facebook.com/utsh0z" target="_blank">
+<a href="https://facebook.com/utshoxxx" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" width="40" height="40" />
 </a>
 &nbsp;
-<a href="https://instagram.com/utsh0x" target="_blank">
+<a href="https://instagram.com/utsho.x" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40" />
 </a>
 &nbsp;
@@ -43,7 +43,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" />
 </a>
 &nbsp;
-<a href="https://x.com/utsh0w" target="_blank">
+<a href="https://x.com/utsh0x" target="_blank">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" width="40" height="40" />
 </a>
 &nbsp;
@@ -56,9 +56,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
+---
 
-
-# 💻 Tech Stack:
+<h2 align="center"> 💻 Tech Stack </h2>
 
 <div align="center">
 
@@ -91,15 +91,32 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
+---
 
+<h2 align="center"> 📊 GitHub Stats </h2>
 
-# 📊 GitHub Stats:
+<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-![](https://github-readme-stats.vercel.app/api?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</td>
+<td align="center" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
+</td>
+</tr>
+</table>
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=dark&hide_border=false" />
+
+</div>
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=uzicodes&icon=0&color=0)](https://visitcount.itsvg.in)
-
