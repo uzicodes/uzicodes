@@ -4,19 +4,23 @@
 🌱 Passionate about problem-solving and continuously expanding my technical skills.<br>
 ⚡ Excited to collaborate and contribute to impactful projects!<br><br><br>
 
+
+
+
 ## 🌐 Connect with me:
+
 
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://instagram.com/utsh0x" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://x.com/utsh0w" target="_blank">
@@ -24,9 +28,12 @@
 </a>
 &nbsp;
 <a href="https://youtube.com/@_utsho_" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="40" height="40" />
 </a>
 </p>
+
+
+
 
 
 # 💻 Tech Stack:
@@ -56,6 +63,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 
 </div>
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
