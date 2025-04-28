@@ -1,5 +1,9 @@
-<h1 align="center"> 💫 About Me </h1>
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <br><br>
+  <span style="font-size:30px; font-weight:bold;">💫 About Me</span>
+  <br><br>
+</p>
 
 <div align="center">
 
@@ -25,10 +29,12 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-
-<h2 align="center"> 🌐 Connect with me </h2>
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <br><br>
+  <span style="font-size:24px; font-weight:bold;">🌐 Connect with me</span>
+  <br><br>
+</p>
 
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
@@ -54,10 +60,12 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-
-<h2 align="center"> 💻 Tech Stack </h2>
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <br><br>
+  <span style="font-size:24px; font-weight:bold;">💻 Tech Stack</span>
+  <br><br>
+</p>
 
 <div align="center">
 
@@ -88,10 +96,12 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-
-<h2 align="center"> 📊 GitHub Stats </h2>
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <br><br>
+  <span style="font-size:24px; font-weight:bold;">📊 GitHub Stats</span>
+  <br><br>
+</p>
 
 <div align="center">
 <table width="100%">
@@ -117,4 +127,6 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=uzicodes&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=uzicodes&icon=0&color=0" alt="Profile Views" />
+</p>
