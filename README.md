@@ -1,4 +1,5 @@
 <h1 align="center"> 💫 About Me </h1>
+<br/>
 
 <div align="center">
 
@@ -27,6 +28,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <h2 align="center"> 🌐 Connect with me </h2>
+<br/>
 
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
@@ -55,6 +57,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <h2 align="center"> 💻 Tech Stack </h2>
+<br/>
 
 <div align="center">
 
@@ -88,6 +91,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <h2 align="center"> 📊 GitHub Stats </h2>
+<br/>
 
 <div align="center">
 <table width="100%">
