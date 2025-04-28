@@ -7,15 +7,25 @@
 ## 🌐 Connect with me:
 
 <p align="center">
-<a href="https://facebook.com/utsh0z" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/></a>
+<a href="https://facebook.com/utsh0z" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40" />
+</a>
 &nbsp;
-<a href="https://instagram.com/utsh0x" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
+<a href="https://instagram.com/utsh0x" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" />
+</a>
 &nbsp;
-<a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+</a>
 &nbsp;
-<a href="https://x.com/utsh0w" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="40" height="40"/></a>
+<a href="https://x.com/utsh0w" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="40" height="40" />
+</a>
 &nbsp;
-<a href="https://youtube.com/@_utsho_" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40"/></a>
+<a href="https://youtube.com/@_utsho_" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40" />
+</a>
 </p>
 
 
