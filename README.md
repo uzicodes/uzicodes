@@ -29,7 +29,6 @@
 
 
 <h2 align="center"> 🌐 Connect with me </h2>
-
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" width="40" height="40" />
