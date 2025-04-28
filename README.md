@@ -1,23 +1,25 @@
 # 💫 About Me:
 
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-
-<div style="flex: 1; min-width: 250px; text-align: left; padding: 10px;">
+<div align="center">
+<table border="0">
+<tr>
+<td width="55%" align="left">
 
 👋 Hi there! I’m a Computer Science Engineering student with a strong foundation in computer networking, DBMS, Algorithms, Software Programming & Analysis, and I'm an AI enthusiast.<br><br>
 👯 Currently enhancing my leadership skills in the Aspire program and exploring projects in seat rotation and simulation.<br><br>
 🌱 Passionate about problem-solving and continuously expanding my technical skills.<br><br>
 ⚡ Excited to collaborate and contribute to impactful projects!
 
-</div>
-
-<div style="flex: 1; min-width: 250px; text-align: center; padding: 10px;">
+</td>
+<td width="45%" align="center">
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Boy" width="300"/>
 
+</td>
+</tr>
+</table>
 </div>
 
-</div>
 
 
 ---
