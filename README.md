@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
   <br><br>
-  <span style="font-size:40px; font-weight:bold;">🙋 About Me</span>
+  <span style="font-size:50px; font-weight:bold;">🙋 About Me</span>
   <br><br>
 </p>
 
