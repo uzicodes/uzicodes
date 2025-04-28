@@ -26,16 +26,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
----
+
 
 <h2 align="center"> 🌐 Connect with me </h2>
 
 <p align="center">
-<a href="https://facebook.com/utshoxxx" target="_blank">
+<a href="https://facebook.com/utsh0z" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" width="40" height="40" />
 </a>
 &nbsp;
-<a href="https://instagram.com/utsho.x" target="_blank">
+<a href="https://instagram.com/utsh0x" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40" />
 </a>
 &nbsp;
@@ -43,7 +43,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" />
 </a>
 &nbsp;
-<a href="https://x.com/utsh0x" target="_blank">
+<a href="https://x.com/utsh0w" target="_blank">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" width="40" height="40" />
 </a>
 &nbsp;
@@ -56,7 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
----
+
 
 <h2 align="center"> 💻 Tech Stack </h2>
 
@@ -82,7 +82,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 
 </div>
@@ -91,7 +90,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
----
+
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 
@@ -117,6 +116,6 @@
 
 </div>
 
----
+
 
 [![](https://visitcount.itsvg.in/api?id=uzicodes&icon=0&color=0)](https://visitcount.itsvg.in)
