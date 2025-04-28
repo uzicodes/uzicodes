@@ -1,15 +1,26 @@
 # 💫 About Me:
-👋 Hi there! I’m a Computer Science Engineering student with a strong foundation in computer networking, DBMS, Algorithms, Software Programming & Analysis, AI enthusiast.<br>
-👯 Currently, I’m enhancing my leadership skills in the Aspire program and exploring projects in seat rotation and simulation.<br>
-🌱 Passionate about problem-solving and continuously expanding my technical skills.<br>
-⚡ Excited to collaborate and contribute to impactful projects!<br><br><br>
 
+<div align="center">
+<table>
+<tr>
+<td width="55%">
 
+👋 Hi there! I’m a Computer Science Engineering student with a strong foundation in computer networking, DBMS, Algorithms, Software Programming & Analysis, and I'm an AI enthusiast.<br><br>
+👯 Currently enhancing my leadership skills in the Aspire program and exploring projects in seat rotation and simulation.<br><br>
+🌱 Passionate about problem-solving and continuously expanding my technical skills.<br><br>
+⚡ Excited to collaborate and contribute to impactful projects!
 
+</td>
+<td width="45%">
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Boy" width="300"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 ## 🌐 Connect with me:
-
-
 
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
@@ -33,13 +44,10 @@
 </a>
 </p>
 
-
-
-
-
-
+---
 
 # 💻 Tech Stack:
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -67,10 +75,10 @@
 
 </div>
 
-
-
+---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -78,7 +86,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=uzicodes&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
