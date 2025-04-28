@@ -4,12 +4,18 @@
 🌱 Passionate about problem-solving and continuously expanding my technical skills.<br>
 ⚡ Excited to collaborate and contribute to impactful projects!<br><br><br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/utshoxxx/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/utsho.x/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsho-heaven-chowdhury/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/utsh0x)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@_utsho_)
+## 🌐 Connect with me:
+<p align="center">
+<a href="https://facebook.com/utsh0z" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://instagram.com/utsho0x" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/utsho-heaven-chowdhury" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://x.com/utsh0w" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://youtube.com/@_utsho_" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40"/></a>
+</p>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -47,6 +53,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=uzicodes&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
