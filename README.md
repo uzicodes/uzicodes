@@ -38,23 +38,23 @@
 <br>
 
 <p align="center">
-<a href="https://facebook.com/utsh0z" target="_blank" style="text-decoration: none;">
+<a href="https://facebook.com/utsh0z" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://instagram.com/utsh0x" target="_blank" style="text-decoration: none;">
+<a href="https://instagram.com/utsh0x" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank" style="text-decoration: none;">
+<a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://x.com/utsh0w" target="_blank" style="text-decoration: none;">
+<a href="https://x.com/utsh0w" target="_blank">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://youtube.com/@_utsho_" target="_blank" style="text-decoration: none;">
+<a href="https://youtube.com/@_utsho_" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_(2017).svg" alt="YouTube" width="50" height="50" />
 </a>
 </p>
