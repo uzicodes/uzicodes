@@ -35,6 +35,8 @@
   <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="40" />
 </p>
 
+<br>
+
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" width="40" height="40" />
