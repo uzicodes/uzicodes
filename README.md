@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  <br><br>
-  <span style="font-size:50px; font-weight:bold;">🙋 About Me</span>
-  <br><br>
-</p>
+<h1 align="center" style="font-size:40px; font-weight:bold;">💫 About Me</h1>
 
 <div align="center">
 
@@ -29,12 +24,10 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  <br><br>
-  <span style="font-size:40px; font-weight:bold;">🌎 Connect with me</span>
-  <br><br>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
+<h2 align="center" style="font-size:40px; font-weight:bold;">🌐 Connect with me</h2>
+<br/>
 
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
@@ -60,12 +53,10 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  <br><br>
-  <span style="font-size:40px; font-weight:bold;">💻 Tech Stack</span>
-  <br><br>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
+<h2 align="center" style="font-size:40px; font-weight:bold;">💻 Tech Stack</h2>
+<br/>
 
 <div align="center">
 
@@ -96,12 +87,10 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  <br><br>
-  <span style="font-size:40px; font-weight:bold;">📊 GitHub Stats</span>
-  <br><br>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
+<h2 align="center" style="font-size:40px; font-weight:bold;">📊 GitHub Stats</h2>
+<br/>
 
 <div align="center">
 <table width="100%">
