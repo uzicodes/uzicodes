@@ -140,5 +140,9 @@
 </p>
 
 
-<!-- GitHub Trophy -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzicodes" alt="uzicodes" /></a> </p>
+<!-- GitHub Trophy with Black Background -->
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=uzicodes&theme=discord&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars" alt="uzicodes" />
+  </a> 
+</p>
