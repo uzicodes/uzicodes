@@ -10,13 +10,14 @@
 ## 🌐 Connect with me:
 
 
+
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://instagram.com/utsh0x" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
@@ -24,13 +25,14 @@
 </a>
 &nbsp;
 <a href="https://x.com/utsh0w" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="40" height="40" />
+<img src="https://seeklogo.com/images/X/x-new-twitter-logo-93951DE2C5-seeklogo.com.png" alt="X" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@_utsho_" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="40" height="40" />
 </a>
 </p>
+
 
 
 
