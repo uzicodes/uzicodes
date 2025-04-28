@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
----
+
 
 ## 🌐 Connect with me:
 
@@ -56,7 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
----
+
 
 # 💻 Tech Stack:
 
@@ -91,7 +91,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
----
+
 
 # 📊 GitHub Stats:
 
@@ -99,7 +99,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 
 [![](https://visitcount.itsvg.in/api?id=uzicodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
