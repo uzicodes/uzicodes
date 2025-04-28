@@ -32,8 +32,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <p align="center">
-  <span style="font-size:40px; font-weight:bold; text-decoration:none;">🌐 Connect with me</span>
-  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="40" />
 </p>
 
 <p align="center">
@@ -135,9 +134,7 @@
 <br/>
 
 <!-- Profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="40" />
-</p>
+
 
 
 <!-- GitHub Trophy -->
