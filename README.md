@@ -78,11 +78,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -141,3 +140,16 @@
 <!-- GitHub Trophy -->
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight"><img src="https://github-profile-trophy.vercel.app/?username=uzicodes" alt="uzicodes" /></a> </p>
 
+
+<!-- Snake Game Section -->
+<p align="center">
+  <span style="font-size:40px; font-weight:bold; text-decoration:none;">🎮 Snake Game</span>
+  <br><br>
+</p>
+
+<div align="center">
+  <h3>Play the Snake Game below!</h3>
+  <iframe src="https://your-game-url-here" width="100%" height="500px" frameborder="0" style="border:none;"></iframe>
+</div>
+
+<br/>
