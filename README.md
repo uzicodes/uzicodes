@@ -87,7 +87,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
@@ -141,15 +140,3 @@
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight"><img src="https://github-profile-trophy.vercel.app/?username=uzicodes" alt="uzicodes" /></a> </p>
 
 
-<!-- Snake Game Section -->
-<p align="center">
-  <span style="font-size:40px; font-weight:bold; text-decoration:none;">🎮 Snake Game</span>
-  <br><br>
-</p>
-
-<div align="center">
-  <h3>Play the Snake Game below!</h3>
-  <iframe src="https://your-game-url-here" width="100%" height="500px" frameborder="0" style="border:none;"></iframe>
-</div>
-
-<br/>
