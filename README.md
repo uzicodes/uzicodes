@@ -95,9 +95,9 @@
 
 <br/>
 
-<!-- New Background Section -->
+<!-- Shorter height decorative GIF banner -->
 <div align="center">
-  <img src="https://i.ibb.co.com/W42RSf1v/giphy.gif" alt="Decorative Section Break" width="100%" />
+  <img src="https://i.ibb.co.com/W42RSf1v/giphy.gif" alt="Decorative Section Break" width="100%" style="height:150px; object-fit:cover;" />
 </div>
 
 <br/>
@@ -137,4 +137,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=uzicodes&theme=tokyonight" alt="uzicodes trophies" />
   </a> 
 </p>
-
