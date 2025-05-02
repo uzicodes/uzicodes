@@ -34,11 +34,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="40" />
 </p>
-<p
-
-
-
-</p>
 
 <br>
 
@@ -55,8 +50,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://x.com/utsh0w" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" width="50" height="50" />
+<a href="https://discord.com/users/895936927176462337" target="_blank">
+<img src="https://i.ibb.co.com/8nbZKhJk/icons8-discord-50.png" alt="Discord" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@_utsho_" target="_blank">
