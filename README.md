@@ -69,8 +69,6 @@
 </p>
 
 <div align="center">
-
-<!-- Updated Tech Stack Icons -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -92,16 +90,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-
-
-
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+<!-- New Background Section -->
+<div align="center">
+  <img src="https://i.ibb.co.com/W42RSf1v/giphy.gif" alt="Decorative Section Break" width="100%" />
+</div>
+
+<br/>
 
 <p align="center">
   <span style="font-size:40px; font-weight:bold; text-decoration:none;">📊 GitHub Stats</span>
@@ -132,11 +131,10 @@
 
 <br/>
 
-<!-- Profile views -->
-
-
-
 <!-- GitHub Trophy -->
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight"><img src="https://github-profile-trophy.vercel.app/?username=uzicodes" alt="uzicodes" /></a> </p>
-
+<p align="center"> 
+  <a href="https://github-profile-trophy.vercel.app/?username=uzicodes">
+    <img src="https://github-profile-trophy.vercel.app/?username=uzicodes&theme=tokyonight" alt="uzicodes trophies" />
+  </a> 
+</p>
 
