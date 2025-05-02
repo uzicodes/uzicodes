@@ -51,7 +51,7 @@
 </a>
 &nbsp;
 <a href="https://discord.com/users/895936927176462337" target="_blank">
-<img src="https://i.ibb.co.com/8nbZKhJk/icons8-discord-50.png" alt="Discord" width="50" height="50" />
+<img src="https://i.ibb.co.com/bgcQvRvM/icons8-discord-50-1.png" alt="Discord" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@_utsho_" target="_blank">
