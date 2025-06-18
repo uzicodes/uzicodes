@@ -11,8 +11,7 @@
 <tr>
 <td width="60%" align="left">
 
-👋 Hi there! I’m a Computer Science Engineering student with a strong foundation in computer networking, DBMS, Algorithms, Software Programming & Analysis, and I'm an AI enthusiast.<br><br>
-👯 Currently enhancing my leadership skills in the Aspire program and exploring projects in seat rotation and simulation.<br><br>
+👋 Hi there! I’m a Computer Science student with a strong foundation in Software Programming/Engineering & Analysis,MERN Stack,ML, and I'm an AI enthusiast.<br><br>
 🌱 Passionate about problem-solving and continuously expanding my technical skills.<br><br>
 ⚡ Excited to collaborate and contribute to impactful projects!
 
