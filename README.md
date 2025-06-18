@@ -11,7 +11,7 @@
 <tr>
 <td width="60%" align="left">
 
-👋 Hi there! I’m a Computer Science student with a strong foundation in Software Programming/Engineering & Analysis,MERN Stack,ML, and I'm an AI enthusiast.<br><br>
+👋 Hi there! I’m a Computer Science student with a strong foundation in Software Programming/Engineering & Analysis, MERN Stack, ML, and I'm an AI enthusiast.<br><br>
 🌱 Passionate about problem-solving and continuously expanding my technical skills.<br><br>
 ⚡ Excited to collaborate and contribute to impactful projects!
 
