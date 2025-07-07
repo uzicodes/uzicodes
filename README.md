@@ -46,7 +46,7 @@
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
-  <img src="assets/linkedin.png" alt="LinkedIn" width="52" height="52" />
+  <img src="assets/linkedin.png" alt="LinkedIn" width="51" height="51" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@uzintek" target="_blank">
@@ -54,7 +54,7 @@
 </a>
 &nbsp;
 <a href="https://discord.com/users/895936927176462337" target="_blank">
-  <img src="assets/discord.png" alt="Discord" width="52" height="52" />
+  <img src="assets/discord.png" alt="Discord" width="53" height="53" />
 </a>
 </p>
 
