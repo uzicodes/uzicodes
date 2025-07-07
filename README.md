@@ -46,7 +46,7 @@
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
-  <img src="assets/linkedin.png" alt="LinkedIn" width="51" height="51" />
+  <img src="assets/linkedin.png" alt="LinkedIn" width="50.5" height="50.5" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@uzintek" target="_blank">
