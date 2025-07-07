@@ -57,8 +57,8 @@
   <img src="assets/discord.png" alt="Discord" width="55" height="55" />
 </a>
 &nbsp;
-<a href="https://whatsapp.com" target="_blank">
-  <img src="assets/whatsapp.png" alt="Whatsapp" width="55" height="55" />
+<a href="mailto:utshozi11@gmail.com" target="_blank">
+  <img src="assets/gmail.png" alt="Gmail" width="55" height="55" />
 </a>
 </p>
 
