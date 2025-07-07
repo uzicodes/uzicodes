@@ -46,15 +46,15 @@
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
-  <img src="assets/linkedin.png" alt="LinkedIn" width="50" height="50" />
+  <img src="assets/linkedin.png" alt="LinkedIn" width="52" height="52" />
+</a>
+&nbsp;
+<a href="https://youtube.com/@uzintek" target="_blank">
+  <img src="assets/youtube.png" alt="Youtube" width="52" height="52" />
 </a>
 &nbsp;
 <a href="https://discord.com/users/895936927176462337" target="_blank">
-  <img src="assets/discord.png" alt="Discord" width="50" height="50" />
-</a>
-&nbsp;
-<a href="https://youtube.com/@_utsho_" target="_blank">
-  <img src="assets/youtube.png" alt="YouTube" width="50" height="50" />
+  <img src="assets/discord.png" alt="Discord" width="52" height="52" />
 </a>
 </p>
 
