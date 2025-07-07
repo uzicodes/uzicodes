@@ -38,11 +38,11 @@
 
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
-  <img src="assets/facebook.png" alt="Facebook" width="52" height="52" />
+  <img src="assets/facebook.png" alt="Facebook" width="51" height="51" />
 </a>
 &nbsp;
 <a href="https://instagram.com/utsh0x" target="_blank">
-  <img src="assets/instagram.png" alt="Instagram" width="52" height="52" />
+  <img src="assets/instagram.png" alt="Instagram" width="51" height="51" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
