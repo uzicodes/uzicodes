@@ -38,7 +38,7 @@
 
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" width="50" height="50" />
+  <img src="assets/facebook.png" alt="Facebook" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://instagram.com/utsh0x" target="_blank">
