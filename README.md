@@ -54,7 +54,7 @@
 </a>
 &nbsp;
 <a href="https://discord.com/users/895936927176462337" target="_blank">
-  <img src="assets/discord.png" alt="Discord" width="53" height="53" />
+  <img src="assets/discord.png" alt="Discord" width="54" height="54" />
 </a>
 </p>
 
