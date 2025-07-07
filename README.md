@@ -38,23 +38,23 @@
 
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
-  <img src="assets/facebook.png" alt="Facebook" width="50" height="50" />
+  <img src="assets/facebook.png" alt="Facebook" width="52" height="52" />
 </a>
 &nbsp;
 <a href="https://instagram.com/utsh0x" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="50" height="50" />
+  <img src="assets/instagram.png" alt="Instagram" width="52" height="52" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" />
+  <img src="assets/linkedin.png" alt="LinkedIn" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://discord.com/users/895936927176462337" target="_blank">
-<img src="https://i.ibb.co.com/bgcQvRvM/icons8-discord-50-1.png" alt="Discord" width="50" height="50" />
+  <img src="assets/discord.png" alt="Discord" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@_utsho_" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_(2017).svg" alt="YouTube" width="50" height="50" />
+  <img src="assets/youtube.png" alt="YouTube" width="50" height="50" />
 </a>
 </p>
 
