@@ -58,7 +58,7 @@
 </a>
 &nbsp;
 <a href="mailto:utshozi11@gmail.com" target="_blank">
-  <img src="assets/gmail.png" alt="Gmail" width="55.5" height="55.5" />
+  <img src="assets/gmail.png" alt="Gmail" width="56" height="56" />
 </a>
 </p>
 
