@@ -38,15 +38,15 @@
 
 <p align="center">
 <a href="https://facebook.com/utsh0z" target="_blank">
-  <img src="assets/facebook.png" alt="Facebook" width="51" height="51" />
+  <img src="assets/facebook.png" alt="Facebook" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://instagram.com/utsh0x" target="_blank">
-  <img src="assets/instagram.png" alt="Instagram" width="51" height="51" />
+  <img src="assets/instagram.png" alt="Instagram" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
-  <img src="assets/linkedin.png" alt="LinkedIn" width="50.5" height="50.5" />
+  <img src="assets/linkedin.png" alt="LinkedIn" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@uzintek" target="_blank">
