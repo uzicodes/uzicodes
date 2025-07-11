@@ -154,9 +154,4 @@
 
 <br/>
 
-<!-- GitHub Trophy -->
-<p align="center"> 
-  <a href="https://github-profile-trophy.vercel.app/?username=uzicodes">
-    <img src="https://github-profile-trophy.vercel.app/?username=uzicodes&theme=tokyonight" alt="uzicodes trophies" />
-  </a> 
-</p>
+
