@@ -148,7 +148,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=dark&hide_border=false" />
+
 
 </div>
 
