@@ -161,7 +161,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&" alt="uzicodes" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=github-dark" alt="uzicodes" />
+</p>
+
 
 
 <br/>
