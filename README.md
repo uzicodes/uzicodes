@@ -136,7 +136,7 @@
     <tr>
       <td align="center" width="50%">
         <!-- Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=github-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
       </td>
       <td align="center" width="50%">
         <!-- GitHub Stats -->
