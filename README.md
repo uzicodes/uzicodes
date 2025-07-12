@@ -133,20 +133,12 @@
 <div align="center">
 <table width="100%">
 <tr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</td>
 <td align="center" width="50%">
   
-<td align="center" width="50%">
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</td>
-<td align="center" width="50%">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false" />
-
-</td>
+<img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> 
 
 </td>
 </tr>
