@@ -130,47 +130,27 @@
   <br><br>
 </p>
 
+<!-- GitHub Stats Section: Updated layout -->
 <div align="center">
-<table width="100%">
-<tr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</td>
-<td align="center" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> 
-
-</td>
-</tr>
-</table>
-
-
-
-
-
-
-
-
-
-<p align="left">
-</p>
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=github-dark" alt="uzicodes" />
-</p>
-
-
-
-<br/>
-
-
-
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <!-- Most Used Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      </td>
+      <td align="center" width="50%">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=github-dark" alt="uzicodes" />
+</p>
 
+<br/>
