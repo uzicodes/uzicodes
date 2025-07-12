@@ -6,6 +6,7 @@
 </p>
 
 <div align="center">
+
 <table border="0" width="100%">
 <tr>
 <td width="60%" align="left">
@@ -16,10 +17,13 @@
 
 </td>
 <td width="40%" align="center">
+
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Boy" width="300"/>
+
 </td>
 </tr>
 </table>
+
 </div>
 
 <br/>
@@ -33,17 +37,29 @@
 <br>
 
 <p align="center">
-<a href="https://facebook.com/utsh0z" target="_blank"><img src="assets/facebook.png" alt="Facebook" width="49.5" height="49.5" /></a>
+<a href="https://facebook.com/utsh0z" target="_blank">
+  <img src="assets/facebook.png" alt="Facebook" width="49.5" height="49.5" />
+</a>
 &nbsp;
-<a href="https://instagram.com/utsh0x" target="_blank"><img src="assets/instagram.png" alt="Instagram" width="49.5" height="49.5" /></a>
+<a href="https://instagram.com/utsh0x" target="_blank">
+  <img src="assets/instagram.png" alt="Instagram" width="49.5" height="49.5" />
+</a>
 &nbsp;
-<a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" width="49.5" height="49.5" /></a>
+<a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
+  <img src="assets/linkedin.png" alt="LinkedIn" width="49.5" height="49.5" />
+</a>
 &nbsp;
-<a href="https://youtube.com/@uzintek" target="_blank"><img src="assets/youtube.png" alt="Youtube" width="52" height="52" /></a>
+<a href="https://youtube.com/@uzintek" target="_blank">
+  <img src="assets/youtube.png" alt="Youtube" width="52" height="52" />
+</a>
 &nbsp;
-<a href="https://discord.com/users/895936927176462337" target="_blank"><img src="assets/discord.png" alt="Discord" width="55" height="55" /></a>
+<a href="https://discord.com/users/895936927176462337" target="_blank">
+  <img src="assets/discord.png" alt="Discord" width="55" height="55" />
+</a>
 &nbsp;
-<a href="mailto:utshozi11@gmail.com" target="_blank"><img src="assets/gmail.png" alt="Gmail" width="56" height="56" /></a>
+<a href="mailto:utshozi11@gmail.com" target="_blank">
+  <img src="assets/gmail.png" alt="Gmail" width="56" height="56" />
+</a>
 </p>
 
 <br/>
@@ -99,8 +115,10 @@
 
 <br/>
 
+<!-- Decorative divider above the banner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
+<!-- Shorter height decorative GIF banner -->
 <div align="center">
   <img src="https://i.ibb.co.com/W42RSf1v/giphy.gif" alt="Decorative Section Break" width="100%" style="height:150px; object-fit:cover;" />
 </div>
@@ -112,10 +130,27 @@
   <br><br>
 </p>
 
-<!-- GitHub Stats Section with matching green borders -->
+<!-- GitHub Stats Section: Updated layout -->
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <div style="border: 2px solid #2ecc71; border-radius: 10px; padding: 10px;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=github-dark&hide_border=true&include_all_commits=false&c_
+        <!-- Most Used Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      </td>
+      <td align="center" width="50%">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=github-dark" alt="uzicodes" />
+</p>
+
+<br/>
