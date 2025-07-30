@@ -124,10 +124,14 @@
 </div>
 
 <br/>
+<br>
+</br>
+
 <!-- coffee -->
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="assets/Buy me a coffee.png" width="800" height="70" alt="Buy Me a Coffee">
 </div>
+
 
 <br>
 
