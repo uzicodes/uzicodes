@@ -126,7 +126,7 @@
 <br/>
 <!-- coffee -->
 <div style="text-align: center;">
-  <img src="assets/Buy me a coffee.png" width="700" height="60" alt="Buy Me a Coffee">
+  <img src="assets/Buy me a coffee.png" width="800" height="70" alt="Buy Me a Coffee">
 </div>
 
 <p align="center">
