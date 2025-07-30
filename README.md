@@ -128,11 +128,6 @@
 
 </br>
 
-<!-- Modern UI sentence above GitHub Stats -->
-<p align="center">
-  <span style="font-size:80px; font-weight:800; color:#cc8329; text-decoration:none;">Buy me a Coffee I need to CODE ! </span>
-  <br><br>
-</p>
 
 <p align="center">
   <span style="font-size:40px; font-weight:bold; text-decoration:none;">📊 GitHub Stats</span>
