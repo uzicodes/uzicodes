@@ -125,6 +125,8 @@
 
 <br/>
 
+<img src="assets/Buy me a coffee.png"  width="600" height="40" />
+
 <p align="center">
   <span style="font-size:40px; font-weight:bold; text-decoration:none;">📊 GitHub Stats</span>
   <br><br>
