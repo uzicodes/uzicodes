@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
   <br><br>
   <span style="font-size:40px; font-weight:bold; text-decoration:none;">💫 About Me</span>
   <br><br>
@@ -18,7 +18,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding GIF" width="300"/>
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="divider" width="100%"/>
 
 </td>
 </tr>
@@ -27,6 +27,8 @@
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="40" />
@@ -61,6 +63,8 @@
 </p>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <p align="center">
   <span style="font-size:40px; font-weight:bold; text-decoration:none;">💻 Tech Stacks</span>
@@ -111,19 +115,31 @@
 
 <br/>
 
+<!-- Decorative divider above the banner -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
+<!-- Shorter height decorative GIF banner -->
+<div align="center">
+  <img src="https://i.ibb.co.com/W42RSf1v/giphy.gif" alt="Decorative Section Break" width="100%" style="height:150px; object-fit:cover;" />
+</div>
+
+<br/>
+
 <p align="center">
   <span style="font-size:40px; font-weight:bold; text-decoration:none;">📊 GitHub Stats</span>
   <br><br>
 </p>
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats Section: Updated layout -->
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="50%">
+        <!-- Most Used Languages -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
       </td>
       <td align="center" width="50%">
+        <!-- GitHub Stats -->
         <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false" />
       </td>
     </tr>
@@ -132,6 +148,7 @@
 
 <br/>
 
+<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=github-dark" alt="uzicodes" />
 </p>
