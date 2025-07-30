@@ -124,8 +124,10 @@
 </div>
 
 <br/>
-
-<img src="assets/Buy me a coffee.png"  width="600" height="40" />
+<!-- coffee -->
+<div style="text-align: center;">
+  <img src="assets/Buy me a coffee.png" width="600" height="40" alt="Buy Me a Coffee">
+</div>
 
 <p align="center">
   <span style="font-size:40px; font-weight:bold; text-decoration:none;">📊 GitHub Stats</span>
