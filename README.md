@@ -120,7 +120,7 @@
 
 <!-- Shorter height decorative GIF banner -->
 <div align="center">
-  <img src="https://giphy.com/gifs/Q9aBxHn9fTqKs" alt="Decorative Section Break" width="100%" style="height:150px; object-fit:cover;" />
+  <img src="https://i.ibb.co/ZzRrk8Wq/giphy.gif" alt="Decorative Section Break" width="100%" style="height:150px; object-fit:cover;" />
 </div>
 
 <br/>
