@@ -130,7 +130,7 @@
 
 <!-- Modern UI sentence above GitHub Stats -->
 <p align="center">
-  <span style="font-size:24px; font-weight:500; color:#58a6ff; text-decoration:none;">Buy me a Coffee I need to CODE ! </span>
+  <span style="font-size:30px; font-weight:800; color:#cc8329; text-decoration:none;">Buy me a Coffee I need to CODE ! </span>
   <br><br>
 </p>
 
