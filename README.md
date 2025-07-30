@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" />
   <br><br>
   <span style="font-size:40px; font-weight:bold; text-decoration:none;">💫 About Me</span>
   <br><br>
@@ -18,7 +18,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Boy" width="300"/>
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding GIF" width="300"/>
 
 </td>
 </tr>
@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="divider" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="40" />
@@ -64,7 +64,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="divider" width="100%" />
 
 <p align="center">
   <span style="font-size:40px; font-weight:bold; text-decoration:none;">💻 Tech Stacks</span>
@@ -116,7 +116,7 @@
 <br/>
 
 <!-- Decorative divider above the banner -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="divider" width="100%" />
 
 <!-- Shorter height decorative GIF banner -->
 <div align="center">
