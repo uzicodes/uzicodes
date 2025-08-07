@@ -136,10 +136,6 @@
 
 
 
-<p align="center">
-  <span style="font-size:40px; font-weight:bold; text-decoration:none;">📊 GitHub Stats</span>
-  <br><br>
-</p>
 
 <!-- GitHub Stats Section: Updated layout -->
 <div align="center">
