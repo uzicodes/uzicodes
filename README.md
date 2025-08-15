@@ -17,7 +17,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="divider" width="100%"/>
+
 
 </td>
 </tr>
