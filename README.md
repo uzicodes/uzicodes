@@ -138,20 +138,17 @@
 </br>
 
 
-
-
-
-<!-- GitHub Stats Section: Updated layout -->
+<!-- GitHub Stats Section: Gruvbox Theme Layout -->
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <!-- Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+        <h3>📊 Utsho Heaven Chowdhury's GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" />
       </td>
       <td align="center" width="50%">
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false" />
+        <h3>💡 Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
       </td>
     </tr>
   </table>
@@ -160,10 +157,14 @@
 <br/>
 
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzicodes&theme=github-dark" alt="uzicodes" />
-</p>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true" />
+</div>
 
 <br/>
 
-
+<!-- Top Repo Section -->
+<div align="center">
+  <h3>🔝 Top Contributed Repo</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=uzicodes&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true" />
+</div>
