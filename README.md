@@ -136,17 +136,17 @@
 
 
 
-<!-- Stats + Languages Centered -->
+<!-- Most Used Languages Centered -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&v=2" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=gruvbox&hide_border=true&count_private=false&layout=compact&card_width=495&v=2" />
 </div>
 
-
-<!-- Contribution / Streak Section -->
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true&v=2" />
+<!-- GitHub Stats + Contributions Side by Side with Matching Height -->
+<div align="center" style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&card_width=495&v=2" style="height: 195px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true&card_width=495&v=2" style="height: 195px;" />
 </div>
+
 
 <!-- Top Repo Section -->
 <div align="center">
