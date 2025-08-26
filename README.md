@@ -60,10 +60,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
+
+
 <p align="center">
-  <span style="font-size:40px; font-weight:bold; text-decoration:none;">💻 Tech Stacks</span>
-  <br><br>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=22&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=Stacks" alt="Typing SVG" />
+
+
 
 <div align="center">
   <!-- Line 1 -->
