@@ -147,7 +147,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=25&duration=0001&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=Stacks" alt="Typing SVG" />
 
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true&card_width=495&v=2" style="height: 195px;" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true&card_width=495&v=2" style="height: 195px;" />
 </div>
 
 
