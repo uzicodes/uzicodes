@@ -14,10 +14,6 @@
 <tr>
 <td width="60%" align="center">
   <img src="assets/Utsho Heaven Chowdhury.png" alt="Utsho Heaven Chowdhury" width="100%" />
-
-
-
-
 </td>
 </tr>
 </table>
@@ -143,11 +139,9 @@
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <h3>📊 Utsho Heaven Chowdhury's GitHub Stats</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" />
       </td>
       <td align="center" width="50%">
-        <h3>💡 Most Used Languages</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
       </td>
     </tr>
@@ -165,6 +159,5 @@
 
 <!-- Top Repo Section -->
 <div align="center">
-  <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=uzicodes&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true" />
 </div>
