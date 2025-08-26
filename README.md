@@ -112,10 +112,7 @@
 <!-- Decorative divider above the banner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<!-- Shorter height decorative GIF banner -->
-<div align="center">
-  <img src="https://i.ibb.co/ZzRrk8Wq/giphy.gif" alt="Decorative Section Break" width="100%" style="height:150px; object-fit:cover;" />
-</div>
+
 
 <br/>
 <br>
