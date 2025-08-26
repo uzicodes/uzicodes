@@ -134,7 +134,7 @@
 </br>
 
 
-# 📊 GitHub Stats:
+
 
 <!-- Stats + Languages Centered -->
 <div align="center">
