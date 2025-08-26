@@ -142,7 +142,8 @@
 <!-- GitHub Stats + Contributions Side by Side with Matching Height -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&card_width=495&v=2" style="height: 195px;" />
-
+<br>
+<br/>
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true&card_width=495&v=2" style="height: 195px;" />
 </div>
