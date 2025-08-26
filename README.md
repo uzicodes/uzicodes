@@ -134,30 +134,28 @@
 </br>
 
 
-<!-- GitHub Stats Section: Gruvbox Theme Layout -->
+# 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <!-- Main GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&v=2" />
+    </td>
+    <td>
+      <!-- Most Used Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact&v=2" />
+    </td>
+  </tr>
+</table>
+
+<!-- Contribution / Streak Section -->
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true&v=2" />
 </div>
-
-<br/>
-
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true" />
-</div>
-
-<br/>
 
 <!-- Top Repo Section -->
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=uzicodes&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=uzicodes&limit=5&theme=gruvbox_light&hide_border=true&combine_all_yearly_contributions=true&v=2" />
 </div>
+
