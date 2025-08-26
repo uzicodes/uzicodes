@@ -150,6 +150,12 @@
 </div>
 
 
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=25&duration=0001&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=------------------------------------" alt="Typing SVG" />
+
+
+
 <!-- Top Repo Section -->
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=uzicodes&limit=5&theme=gruvbox_light&hide_border=true&combine_all_yearly_contributions=true&v=2" />
