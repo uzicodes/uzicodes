@@ -144,8 +144,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&card_width=495&v=2" style="height: 195px;" />
 <br>
 <br/>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=25&duration=0001&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=Stacks" alt="Typing SVG" />
 
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true&card_width=495&v=2" style="height: 195px;" />
