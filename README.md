@@ -139,8 +139,9 @@
 <!-- Stats + Languages Centered -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&v=2" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=default&v=2" />
 </div>
+
 
 <!-- Contribution / Streak Section -->
 <div align="center">
