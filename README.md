@@ -154,6 +154,6 @@
 
 <!-- Top Repo Section -->
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=uzicodes&limit=5&theme=gruvbox_light&hide_border=true&combine_all_yearly_contributions=true&v=2" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=uzicodes&limit=5&theme=gruvbox&hide_border=true&combine_all_yearly_contributions=true&v=2" />
 </div>
 
