@@ -151,8 +151,6 @@
 
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=25&duration=0001&pause=1000&color=81F725FF&center=true&repeat=false&width=435&lines=---------------------------------------" alt="Typing SVG" />
 
 <!-- Top Repo Section -->
 <div align="center">
