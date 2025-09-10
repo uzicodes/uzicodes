@@ -13,7 +13,7 @@
 <table border="0" width="100%">
 <tr>
 <td width="60%" align="center">
-  <img src="assets/Utsho Heaven Chowdhury.png" alt="Utsho Heaven Chowdhury" width="100%" />
+  <img src="assets/Utsho Heaven Chowdhury -with image.png" alt="Utsho Heaven Chowdhury" width="100%" />
 </td>
 </tr>
 </table>
