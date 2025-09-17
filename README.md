@@ -167,8 +167,7 @@
 </div>
 
 
-
-<!-- spotify -->
+<!-- graph -->
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ufur3xzjmmsxlogoplgesxuedu"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzicodes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
