@@ -30,31 +30,14 @@
 
 <br>
 
-<p align="center">
-<a href="https://facebook.com/utsh0z" target="_blank">
-  <img src="assets/facebook.png" alt="Facebook" width="49.5" height="49.5" />
-</a>
-&nbsp;
-<a href="https://instagram.com/utsh0x" target="_blank">
-  <img src="assets/instagram.png" alt="Instagram" width="49.5" height="49.5" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/utsho-heaven-chowdhury-443709212" target="_blank">
-  <img src="assets/linkedin.png" alt="LinkedIn" width="49.5" height="49.5" />
-</a>
-&nbsp;
-<a href="https://youtube.com/@uzintek" target="_blank">
-  <img src="assets/youtube.png" alt="Youtube" width="52" height="52" />
-</a>
-&nbsp;
-<a href="https://discord.com/users/895936927176462337" target="_blank">
-  <img src="assets/discord.png" alt="Discord" width="55" height="55" />
-</a>
-&nbsp;
-<a href="mailto:utshozi11@gmail.com" target="_blank">
-  <img src="assets/gmail.png" alt="Gmail" width="56" height="56" />
-</a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
 
 <br/>
 
