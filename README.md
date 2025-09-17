@@ -166,5 +166,9 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=uzicodes&limit=5&theme=gruvbox&hide_border=true&combine_all_yearly_contributions=true&v=2" />
 </div>
 
+
+
 <!-- spotify -->
+<div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ufur3xzjmmsxlogoplgesxuedu)
+</div>
