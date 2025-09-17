@@ -171,4 +171,3 @@
 <!-- spotify -->
 <div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ufur3xzjmmsxlogoplgesxuedu)
-</div>
