@@ -3,9 +3,7 @@
   <br><br>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=36&duration=1700&pause=300&color=C5F542&center=true&vCenter=true&width=435&lines=Full-stack+Developer;AI/ML+Enthusiast;MERN;UI/UX+Passionate;Always+Learning+!" alt="Typing SVG" />
-</p>
+
 
 
 <div align="center">
