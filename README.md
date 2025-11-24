@@ -105,6 +105,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 
 </div>
 
