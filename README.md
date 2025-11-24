@@ -68,8 +68,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -97,7 +95,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="5" />
