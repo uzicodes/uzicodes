@@ -84,7 +84,7 @@
 
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="5" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="linux logo"  />
