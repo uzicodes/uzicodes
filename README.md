@@ -85,11 +85,7 @@
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="vscode logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="5" />
@@ -103,7 +99,11 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="vscode logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="5" />
