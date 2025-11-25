@@ -85,11 +85,11 @@
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="linux logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=supabase&theme=light" height="40" alt="supabase logo" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="5" />
