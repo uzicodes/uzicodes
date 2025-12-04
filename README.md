@@ -74,7 +74,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="5" />
@@ -87,7 +87,7 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
   <img width="5" />
