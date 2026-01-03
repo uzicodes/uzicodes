@@ -136,23 +136,9 @@
 
 
 
-<!-- Most Used Languages Centered -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzicodes&theme=gruvbox&hide_border=true&count_private=false&layout=compact&card_width=495&v=2" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=uzicodes&theme=radical&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
-
-
-<!-- GitHub Stats + Contributions Side by Side with Matching Height -->
-<div align="center" style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzicodes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&card_width=495&v=2" style="height: 195px;" />
-</div>
-
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=uzicodes&theme=gruvbox&hide_border=true&card_width=495&v=2" style="height: 195px;" />
-</div>
-
-
 
 
 
