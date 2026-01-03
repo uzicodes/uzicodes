@@ -47,7 +47,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=25&duration=0001&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=Stacks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=25&duration=0001&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=Stacks" alt="Typing SVG" />
 
 
 
