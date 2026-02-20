@@ -1,0 +1,32 @@
+name: Update GitHub Insights Image
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+jobs:
+  update-image:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important: This allows the bot to commit to your repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory if it doesn't exist
+        run: mkdir -p assets
+
+      - name: Download Insights SVG
+        run: |
+          curl -L "https://yourinsights.vercel.app/api/insight?username=uzicodes&theme=radical&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" -o assets/github-insights.svg
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-insights.svg
+          git commit -m "chore: Update GitHub Insights image" || echo "No changes to commit"
+          git push
