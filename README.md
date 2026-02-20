@@ -135,9 +135,8 @@
 
 
 <div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=uzicodes&theme=radical&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <img src="assets/github-insights.svg" alt="GitHub Insights" />
 </div>
-
 
 
 
