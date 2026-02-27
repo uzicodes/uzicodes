@@ -97,7 +97,7 @@
     <g transform="translate(0, 0) scale(1)">
       <path fill="#34d399" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z" />
     </g>
-  <text x="26" y="12" font-size="13" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">Contributions (12mo)</text><text x="230" y="12" font-size="14" font-weight="600" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">2,086</text></g><g transform="translate(0, 54)">
+  <text x="26" y="12" font-size="13" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">Contributions (12mo)</text><text x="230" y="12" font-size="14" font-weight="600" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">2,091</text></g><g transform="translate(0, 54)">
     <g transform="translate(0, 0) scale(1)">
       <path fill="#a78bfa" d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z" />
     </g>
@@ -127,7 +127,7 @@
       <g transform="translate(24, 60)">
         <defs><clipPath id="langBarClip"><rect x="0" y="0" width="329" height="12" rx="6"/></clipPath></defs>
         <rect x="0" y="0" width="329" height="12" rx="6" fill="#141321"/>
-        <g clip-path="url(#langBarClip)"><rect x="0" y="0" width="219.56200826296686" height="12" fill="#3178c6"/><rect x="219.56200826296686" y="0" width="60.23146664474088" height="12" fill="#DA5B0B"/><rect x="279.7934749077077" y="0" width="17.750249214750454" height="12" fill="#a91e50"/><rect x="297.5437241224582" y="0" width="12.324855251483816" height="12" fill="#3572A5"/><rect x="309.868579373942" y="0" width="8.20912591272512" height="12" fill="#f1e05a"/><rect x="318.07770528666714" y="0" width="6.331391242937853" height="12" fill="#663399"/><rect x="324.409096529605" y="0" width="2.5249654541189908" height="12" fill="#f34b7d"/><rect x="326.934061983724" y="0" width="2.065938016275993" height="12" fill="#DA3434"/></g>
+        <g clip-path="url(#langBarClip)"><rect x="0" y="0" width="219.53688019693328" height="12" fill="#3178c6"/><rect x="219.53688019693328" y="0" width="60.24200659992791" height="12" fill="#DA5B0B"/><rect x="279.7788867968612" y="0" width="17.75335534584279" height="12" fill="#a91e50"/><rect x="297.532242142704" y="0" width="12.327011988307172" height="12" fill="#3572A5"/><rect x="309.85925413101114" y="0" width="8.210562434597572" height="12" fill="#f1e05a"/><rect x="318.06981656560873" y="0" width="6.338476597922998" height="12" fill="#663399"/><rect x="324.4082931635317" y="0" width="2.5254072999550257" height="12" fill="#f34b7d"/><rect x="326.93370046348673" y="0" width="2.06629953651327" height="12" fill="#DA3434"/></g>
       </g>
       <g transform="translate(24, 88)"><g transform="translate(0, 0)"><circle cx="6" cy="7" r="5" fill="#3178c6"/><text x="20" y="11" font-size="12" font-weight="500" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">TypeScript</text><text x="155" y="11" font-size="12" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">66.0%</text></g><g transform="translate(0, 27)"><circle cx="6" cy="7" r="5" fill="#a91e50"/><text x="20" y="11" font-size="12" font-weight="500" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">EJS</text><text x="155" y="11" font-size="12" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">5.3%</text></g><g transform="translate(0, 54)"><circle cx="6" cy="7" r="5" fill="#f1e05a"/><text x="20" y="11" font-size="12" font-weight="500" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">JavaScript</text><text x="155" y="11" font-size="12" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">2.5%</text></g><g transform="translate(0, 81)"><circle cx="6" cy="7" r="5" fill="#f34b7d"/><text x="20" y="11" font-size="12" font-weight="500" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">C++</text><text x="155" y="11" font-size="12" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">0.8%</text></g><g transform="translate(175, 0)"><circle cx="6" cy="7" r="5" fill="#DA5B0B"/><text x="20" y="11" font-size="12" font-weight="500" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">Jupyter Notebook</text><text x="155" y="11" font-size="12" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">18.1%</text></g><g transform="translate(175, 27)"><circle cx="6" cy="7" r="5" fill="#3572A5"/><text x="20" y="11" font-size="12" font-weight="500" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">Python</text><text x="155" y="11" font-size="12" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">3.7%</text></g><g transform="translate(175, 54)"><circle cx="6" cy="7" r="5" fill="#663399"/><text x="20" y="11" font-size="12" font-weight="500" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">CSS</text><text x="155" y="11" font-size="12" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">1.9%</text></g><g transform="translate(175, 81)"><circle cx="6" cy="7" r="5" fill="#DA3434"/><text x="20" y="11" font-size="12" font-weight="500" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">CMake</text><text x="155" y="11" font-size="12" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">0.6%</text></g></g>
     </g>
@@ -147,7 +147,7 @@
         </g>
         
         <text x="123" y="70" text-anchor="middle" font-size="26" font-weight="700" fill="#f8d847" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">
-          2,095
+          2,100
         </text>
         <text x="123" y="94" text-anchor="middle" font-size="12" font-weight="600" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">
           Total Contributions
@@ -178,7 +178,7 @@
   
           </g>
           <text x="0" y="8" text-anchor="middle" font-size="22" font-weight="700" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">
-            151
+            153
           </text>
         </g>
         
@@ -186,7 +186,7 @@
           Current Streak
         </text>
         <text x="123" y="126" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" opacity="0.7" letter-spacing="0.2">
-          Sep 28, 2025 - Feb 25, 2026
+          Sep 28, 2025 - Feb 27, 2026
         </text>
       </g>
       
@@ -203,13 +203,13 @@
         </g>
         
         <text x="123" y="70" text-anchor="middle" font-size="26" font-weight="700" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">
-          151
+          153
         </text>
         <text x="123" y="94" text-anchor="middle" font-size="12" font-weight="600" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">
           Longest Streak
         </text>
         <text x="123" y="116" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" opacity="0.7" letter-spacing="0.2">
-          Sep 28, 2025 - Feb 25, 2026
+          Sep 28, 2025 - Feb 27, 2026
         </text>
       </g>
     </g>
