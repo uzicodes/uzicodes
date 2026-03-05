@@ -114,7 +114,7 @@
 
 <p align="center">
   <a href="https://www.supportkori.com/utsho" target="_blank">
-    <img src="https://img.shields.io/badge/SupportKori-Buy_me_Koffee_%3F-b2c846?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="SupportKori - Buy me Koffee?" height="45">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Koffee" height="45" width="162">
   </a>
 </p>
 
