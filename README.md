@@ -42,12 +42,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=25&duration=0001&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=Stacks" alt="Typing SVG" />
-
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -109,35 +105,22 @@
 
 </div>
 
-
 <br/>
 
-<!-- Decorative divider above the banner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-
-
 
 <br>
 </br>
 
-
 <p align="center">
-  <a href="https://www.buymeacoffee.com/utsh0" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="162">
+  <a href="https://www.supportkori.com/utsho" target="_blank">
+    <img src="https://img.shields.io/badge/SupportKori-Buy_me_Koffee_%3F-b2c846?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="SupportKori - Buy me Koffee?" height="45">
   </a>
 </p>
 
-
 <br>
 </br>
-
-
-
 
 <div align="center">
   <img src="assets/github-insights.svg" alt="GitHub Insights" />
 </div>
-
-
-
-
