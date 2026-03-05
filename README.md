@@ -127,13 +127,7 @@
   </a>
 </p>
 
-<script 
-  src="https://www.supportkori.com/widget.js" 
-  data-id="utsho" 
-  data-message="Buy  me  Koffee ? " 
-  data-color="#15c171" 
-  data-position="left"
-></script>
+
 <br>
 </br>
 
