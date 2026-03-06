@@ -112,11 +112,11 @@
 <br>
 </br>
 
-<p align="center">
+<div align="center">
   <a href="https://www.supportkori.com/utsho" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Koffee" height="45" width="162">
+    <img src="assets/buymecoffee.svg" alt="Buy me Koffee ?" width="150" />
   </a>
-</p>
+</div>
 
 <br>
 </br>
