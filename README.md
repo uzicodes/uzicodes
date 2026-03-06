@@ -112,11 +112,12 @@
 <br>
 </br>
 
-<div align="center">
+<p align="center">
   <a href="https://www.supportkori.com/utsho" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20Koffee%20%3F-04b82a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me Koffee ?" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Koffee" height="45" width="162">
   </a>
-</div>
+</p>
+
 
 <br>
 </br>
