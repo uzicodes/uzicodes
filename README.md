@@ -77,7 +77,7 @@
 <br/>
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="gitlab logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="5" />
