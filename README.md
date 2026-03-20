@@ -90,7 +90,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="5" />
