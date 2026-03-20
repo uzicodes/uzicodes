@@ -9,6 +9,7 @@
 
 <div align="center">
 
+<!--
 <table border="0" width="100%">
 <tr>
 <td width="60%" align="center">
@@ -16,6 +17,7 @@
 </td>
 </tr>
 </table>
+-->
 
 </div>
 
