@@ -77,8 +77,9 @@
 <br/>
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="gitlab logo"  />
-  <img width="7" />
+  <img src="assets/neon.svg" height="40" alt="neon logo"  />
+  <img width="5" />
+
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="5" />
   <img src="assets/clerk.svg" height="40" alt="clerk logo"  />
@@ -95,8 +96,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="vscode logo"  />
   <img width="5" />
-  <img src="assets/neon.svg" height="40" alt="neon logo"  />
-  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="gitlab logo"  />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
