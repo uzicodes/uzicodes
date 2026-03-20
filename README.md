@@ -81,7 +81,7 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img src="assets/clerk.svg" height="40" alt="clerk logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
   <img width="5" />
@@ -95,7 +95,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="vscode logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img src="assets/neon.svg" height="40" alt="neon logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="5" />
