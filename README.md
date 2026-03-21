@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=3000&pause=500&color=C5F542&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;TypeScript+|+MERN+|+Supabase+|+DevOps;Always+Learning+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=3000&pause=500&color=C5F542&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;TypeScript+|+MERN+|+Supabase+|+DevOps;ALWAYS+LEARNING+!" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -42,7 +42,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=25&duration=0001&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=Stacks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=25&duration=0001&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=STACKS" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
