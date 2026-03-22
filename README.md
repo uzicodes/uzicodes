@@ -39,10 +39,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="display:block;margin-bottom:2px;" />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="display:block;" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=20&duration=0001&pause=1000&color=E9F71D&center=true&repeat=false&width=435&lines=STACKS" alt="Typing SVG" />
@@ -108,10 +106,12 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="display:block;margin-bottom:2px;" />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="display:block;" />
-</div>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
+<br>
+</br>
 
 <p align="center">
   <a href="https://www.supportkori.com/utsho" target="_blank">
