@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=20&duration=0001&pause=1000&color=F20505&center=true&repeat=false&width=435&lines=STACKS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=20&duration=0001&pause=1000&color=C5F542&center=true&repeat=false&width=435&lines=STACKS" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
