@@ -32,12 +32,12 @@
   <table border="0">
     <tr>
       <td>
-        <a href="https://www.instagram.com/utsh0x/" target="_blank">
+        <a href="https://www.instagram.com/utsh0_/" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram" />
         </a>
       </td>
       <td>
-        <a href="https://www.facebook.com/utsh0z" target="_blank">
+        <a href="https://www.facebook.com/utsh0chowdhury" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="35" alt="facebook" />
         </a>
       </td>
