@@ -28,25 +28,41 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-  <a href="https://www.instagram.com/utsh0x/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram" />
-  </a>
-  <a href="https://www.facebook.com/utsh0z" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook" />
-  </a>
-  <a href="https://www.youtube.com/@uzicodes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/utsho-heaven-chowdhury" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin" />
-  </a>
-  <a href="mailto:utshozi11@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail" />
-  </a>
-  <a href="https://discord.com/users/895936927176462337" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord" />
-  </a>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://www.instagram.com/utsh0x/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.facebook.com/utsh0z" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="35" alt="facebook" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/@uzicodes" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/utsho-heaven-chowdhury" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:utshozi11@gmail.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail" />
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.com/users/895936927176462337" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="35" alt="discord" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
