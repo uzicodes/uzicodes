@@ -53,7 +53,7 @@
       </td>
       <td>
         <a href="mailto:utshozi11@gmail.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail" />
+          <img src="assets/gmail.png" alt="Gmail="45" height="35" alt="gmail" />
         </a>
       </td>
       <td>
