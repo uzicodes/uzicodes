@@ -21,7 +21,7 @@ jobs:
 
       - name: Download Insights SVG
         run: |
-          curl -L "https://yourinsights.vercel.app/api/insight?username=uzicodes&theme=radical&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" -o assets/github-insights.svg
+          curl -L "https://yourinsights.vercel.app/api/insight?username=uzicodes&theme=radical&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" -o assets/github-insights.svg
 
       - name: Commit and Push Changes
         run: |
