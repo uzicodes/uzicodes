@@ -14,4 +14,4 @@ jobs:
     steps:
       - name: Ping Vercel Image
         run: |
-          curl -I -m 10 "https://yourinsights.vercel.app/api/insight?username=uzicodes&theme=radical&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"
+          curl -I -m 10 "https://yourinsights.vercel.app/api/insight?username=uzicodes&theme=radical&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"
