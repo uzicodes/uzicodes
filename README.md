@@ -94,7 +94,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="5" />
