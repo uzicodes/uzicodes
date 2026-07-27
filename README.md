@@ -75,10 +75,7 @@
 </p>
 
 <p align="center">  
-  <img src="assets/neon.svg" height="40" alt="neon logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
-  <img src="assets/clerk.svg" height="40" alt="clerk logo" />
-  <img src="https://skillicons.dev/icons?i=supabase,postman,express,nginx,gcp,fastapi,cloudflare,prisma,tailwind,redis" height="40" />
+  <img src="assets/neon.svg" height="40" alt="neon logo" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" /> <img src="assets/clerk.svg" height="40" alt="clerk logo" /> <img src="https://skillicons.dev/icons?i=supabase,postman,express,nginx,gcp,fastapi,cloudflare,prisma,tailwind,redis" height="40" />
 </p>
 
 <br/>
