@@ -47,7 +47,7 @@
         </a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/utsho-heaven-chowdhury" target="_blank">
+        <a href="https://www.linkedin.com/in/utshochowdhury" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin" />
         </a>
       </td>
