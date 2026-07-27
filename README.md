@@ -71,11 +71,14 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,mongodb,firebase,git,androidstudio,docker,figma" height="40" />
 </p>
 
 <p align="center">  
-  <img src="assets/neon.svg" height="40" alt="neon logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />&nbsp;&nbsp;<img src="assets/clerk.svg" height="40" alt="clerk logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="vscode logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="gitlab logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+  <img src="assets/neon.svg" height="40" alt="neon logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
+  <img src="assets/clerk.svg" height="40" alt="clerk logo" />
+  <img src="https://skillicons.dev/icons?i=supabase,postman,express,nginx,gcp,fastapi,cloudflare,prisma,tailwind,redis" height="40" />
 </p>
 
 <br/>
