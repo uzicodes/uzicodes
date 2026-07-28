@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">  
-  <img src="assets/neon.svg" height="40" alt="neon logo" /> <img src="https://skills.syvixor.com/api/icons?i=postgres&radius=40" height="40" alt="postgres logo" /> <img src="assets/clerk.svg" height="40" alt="clerk logo" /> <img src="https://skills.syvixor.com/api/icons?i=supabase,postman,express,nginx,gcp,fastapi,cloudflare,prisma,tailwind,redis&perline=15&radius=40" height="40" />
+  <img src="https://skills.syvixor.com/api/icons?i=neon,postgresql,clerk,supabase,postman,express,nginx,gcp,fastapi,cloudflare,prisma,tailwind,redis&perline=15&radius=40" height="40" />
 </p>
 
 <br/>
