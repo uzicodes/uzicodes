@@ -58,7 +58,7 @@
 <br>
 <p align="center">
   <a href="https://utshochowdhury.me" target="_blank">
-    <kbd>&nbsp; Explore My Portfolio : www.utshochowdhury.me &nbsp;</kbd>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=1&color=C5F542&center=true&vCenter=true&repeat=false&width=700&lines=Explore+My+Portfolio+:+www.utshochowdhury.me" alt="www.utshochowdhury.me" />
   </a>
 </p>
 <br/>
