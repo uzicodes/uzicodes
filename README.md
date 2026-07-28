@@ -58,7 +58,7 @@
 <br>
 <p align="center">
   <a href="https://utshochowdhury.me" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=1&color=09C859&center=true&vCenter=true&repeat=false&width=700&lines=www.utshochowdhury.me" alt="www.utshochowdhury.me" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=1&color=09C859&center=true&vCenter=true&repeat=false&width=700&lines=www.utshochowdhury.me" alt="www.utshochowdhury.me" />
   </a>
 </p>
 <br/>
@@ -66,9 +66,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=20&duration=0001&pause=1000&color=C5F542&center=true&repeat=false&width=435&lines=STACKS" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nodejs,py,mongodb,firebase,git,androidstudio,docker,figma,postgresql&perline=15&radius=40" height="45" />
