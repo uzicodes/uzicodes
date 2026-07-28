@@ -76,8 +76,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
-<br>
-</br>
+
 
 <p align="center">
   <a href="https://www.supportkori.com/utsho" target="_blank">
@@ -85,8 +84,7 @@
   </a>
 </p>
 
-<br>
-</br>
+
 
 <div align="center">
   <img src="assets/github-insights.svg" alt="GitHub Insights" />
