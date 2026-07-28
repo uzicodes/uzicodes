@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=3000&pause=500&color=C5F542&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;TypeScript+|+MERN+|+PostgreSQL;ALWAYS+LEARNING+!" alt="Typing SVG" />
 </p>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="40" />
 </p>
@@ -54,18 +52,17 @@
 
 <br/>
 
-
 <br>
 <p align="center">
   <a href="https://utshochowdhury.me" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=1&color=09C859&center=true&vCenter=true&repeat=false&width=700&lines=www.utshochowdhury.me" alt="www.utshochowdhury.me" />
+    <kbd>
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=1&color=09C859&center=true&vCenter=true&repeat=false&width=350&lines=www.utshochowdhury.me" alt="www.utshochowdhury.me" />
+    </kbd>
   </a>
 </p>
 <br/>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
-
 
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nodejs,py,mongodb,firebase,git,androidstudio,docker,figma,postgresql&perline=15&radius=40" height="45" />
