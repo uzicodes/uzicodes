@@ -71,11 +71,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nodejs,py,mongodb,firebase,git,androidstudio,docker,figma&perline=15&radius=40" height="40" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nodejs,py,mongodb,firebase,git,androidstudio,docker,figma,postgresql&perline=15&radius=40" height="45" />
 </p>
 
 <p align="center">  
-  <img src="https://skills.syvixor.com/api/icons?i=neon,postgresql,clerk,supabase,postman,express,nginx,gcp,fastapi,cloudflare,prisma,tailwind,redis&perline=15&radius=40" height="40" />
+  <img src="https://skills.syvixor.com/api/icons?i=neon,clerk,supabase,postman,express,nginx,gcp,capacitorjs,fastapi,cloudflare,prisma,tailwind,redis&perline=15&radius=40" height="45" />
 </p>
 
 <br/>
