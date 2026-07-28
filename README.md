@@ -7,17 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=3000&pause=500&color=C5F542&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;TypeScript+|+MERN+|+PostgreSQL;ALWAYS+LEARNING+!" alt="Typing SVG" />
 </p>
 
-<div align="center">
-<!--
-<table border="0" width="100%">
-<tr>
-<td width="60%" align="center">
-  <img src="assets/Utsho Heaven Chowdhury.png" alt="Utsho Heaven Chowdhury" width="100%" />
-</td>
-</tr>
-</table>
--->
-</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="40" />
@@ -63,6 +53,16 @@
 </div>
 
 <br/>
+
+
+<br>
+<p align="center">
+  <a href="https://utshochowdhury.me" target="_blank">
+    <kbd>&nbsp; Explore My Portfolio : www.utshochowdhury.me &nbsp;</kbd>
+  </a>
+</p>
+<br/>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
