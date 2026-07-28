@@ -58,7 +58,7 @@
 <br>
 <p align="center">
   <a href="https://utshochowdhury.me" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=1&color=C5F542&center=true&vCenter=true&repeat=false&width=700&lines=Explore+My+Portfolio+:+www.utshochowdhury.me" alt="www.utshochowdhury.me" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Play&size=25&duration=1&color=09C859&center=true&vCenter=true&repeat=false&width=700&lines=🌐 www.utshochowdhury.me" alt="www.utshochowdhury.me" />
   </a>
 </p>
 <br/>
