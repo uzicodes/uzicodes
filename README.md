@@ -37,7 +37,7 @@
         </a>
       </td>
       <td>
-        <a href="mailto:utshozi11@gmail.com" target="_blank">
+        <a href="mailto:utsho8chowdhury@gmail.com" target="_blank">
           <img src="assets/gmail.png" alt="Gmail" width="45" height="35" />
         </a>
       </td>
