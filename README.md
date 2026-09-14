@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <span style="font-family: Poppins, sans-serif; font-size: 25px; font-weight: bold; color: #50C878;">
+  <span style="font-family: Cairo, sans-serif; font-size: 25px; font-weight: bold; color: #50C878;">
     FULL-STACK SOFTWARE DEVELOPER
   </span>
 </p>
