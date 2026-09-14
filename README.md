@@ -4,9 +4,10 @@
 </p>
 
 <p align="center">
-  <span style="font-family: Cairo, sans-serif; font-size: 25px; font-weight: bold; color: #50C878;">
-    FULL-STACK SOFTWARE DEVELOPER
-  </span>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=1&color=50C878&center=true&vCenter=true&repeat=false&width=700&height=40&lines=FULL-STACK+SOFTWARE+DEVELOPER"
+    alt="FULL-STACK SOFTWARE DEVELOPER"
+  />
 </p>
 
 <p align="center">
