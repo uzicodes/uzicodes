@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=3000&pause=500&color=C5F542&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;TypeScript+|+MERN+|+PostgreSQL;ALWAYS+LEARNING+!" alt="Typing SVG" />
+  <span style="font-family: Poppins, sans-serif; font-size: 25px; font-weight: bold; color: #50C878;">
+    FULL-STACK SOFTWARE DEVELOPER
+  </span>
 </p>
 
 <p align="center">
@@ -56,7 +58,7 @@
 <p align="center">
   <a href="https://utshochowdhury.me" target="_blank">
     <kbd>
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=1&color=09C859&center=true&vCenter=true&repeat=false&width=270&height=35&lines=www.utshochowdhury.me" alt="www.utshochowdhury.me" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=1&color=09C859&center=true&vCenter=true&repeat=false&width=230&height15&lines=www.utshochowdhury.me" alt="www.utshochowdhury.me" />
     </kbd>
   </a>
 </p>
