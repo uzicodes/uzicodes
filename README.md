@@ -5,13 +5,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=1&color=50C878&center=true&vCenter=true&repeat=false&width=700&height=40&lines=FULL-STACK+SOFTWARE+DEVELOPER"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1&color=50C878&center=true&vCenter=true&repeat=false&width=700&height=40&lines=FULL-STACK+SOFTWARE+DEVELOPER"
     alt="FULL-STACK SOFTWARE DEVELOPER"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="40" />
+  <img src="https://komarev.com/ghpvc/?username=uzicodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="35" />
 </p>
 
 <br>
@@ -59,7 +59,7 @@
 <p align="center">
   <a href="https://utshochowdhury.me" target="_blank">
     <kbd>
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=1&color=09C859&center=true&vCenter=true&repeat=false&width=230&height15&lines=www.utshochowdhury.me" alt="www.utshochowdhury.me" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Mono&size=17&duration=1&color=50C878&center=true&vCenter=true&repeat=false&width=200&height=30&lines=www.utshochowdhury.me" alt="www.utshochowdhury.me" />
     </kbd>
   </a>
 </p>
