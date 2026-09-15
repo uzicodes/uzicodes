@@ -4,10 +4,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=1&color=50C878&center=true&vCenter=true&repeat=false&width=700&height=40&lines=FULL-STACK+SOFTWARE+DEVELOPER"
-    alt="FULL-STACK SOFTWARE DEVELOPER"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&weight=700&size=40&duration=1&color=50C878&center=true&vCenter=true&repeat=false&width=700&height=45&lines=FULL-STACK+SOFTWARE+DEVELOPER" />
 </p>
 
 <p align="center">
