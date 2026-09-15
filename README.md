@@ -75,7 +75,6 @@
   <img src="https://skills.syvixor.com/api/icons?i=neon,clerk,supabase,postman,express,nginx,gcp,capacitorjs,fastapi,cloudflare,prisma,tailwind,redis&perline=15&radius=40" height="45" />
 </p>
 
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
