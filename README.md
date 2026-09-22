@@ -52,7 +52,7 @@
 
 <br/>
 
-<br>
+
 <p align="center">
   <a href="https://utshochowdhury.me" target="_blank">
     <kbd>
@@ -60,7 +60,7 @@
     </kbd>
   </a>
 </p>
-<br/>
+<br
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
