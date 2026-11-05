@@ -96,7 +96,7 @@
   
     <g class="mi-card mi-d3" transform="translate(40, 257)">
       <g transform="translate(0, 0)">
-        <title>Total contributions: 2,580</title>
+        <title>Total contributions: 3,708</title>
         <rect x="0" y="0" width="246" height="140" rx="14" fill="#1a1b27" stroke="#fe428e" stroke-width="1" stroke-opacity="0.85"/>
         
         <rect x="105" y="14" width="36" height="36" rx="10" fill="#f8d847" opacity="0.12"/>
@@ -109,7 +109,7 @@
         </g>
         
         <text x="123" y="74" text-anchor="middle" font-size="26" font-weight="700" fill="#f8d847" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="-0.2">
-          2,580
+          3,708
         </text>
         <text x="123" y="98" text-anchor="middle" font-size="12" font-weight="600" fill="#a9fef7" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">
           Total Contributions
@@ -151,7 +151,7 @@
       </g>
       
       <g transform="translate(524, 0)">
-        <title>Longest streak: 244 days</title>
+        <title>Longest streak: 279 days</title>
         <rect x="0" y="0" width="246" height="140" rx="14" fill="#1a1b27" stroke="#fe428e" stroke-width="1" stroke-opacity="0.85"/>
         
         <rect x="105" y="14" width="36" height="36" rx="10" fill="#a9fef7" opacity="0.12"/>
@@ -164,13 +164,13 @@
         </g>
         
         <text x="123" y="74" text-anchor="middle" font-size="26" font-weight="700" fill="#a9fef7" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="-0.2">
-          244
+          279
         </text>
         <text x="123" y="98" text-anchor="middle" font-size="12" font-weight="600" fill="#a9fef7" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">
           Longest Streak
         </text>
         <text x="123" y="118" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" opacity="0.75" letter-spacing="0.2">
-          Nov 2, 2025 - Jul 3, 2026
+          Sep 28, 2025 - Jul 3, 2026
         </text>
       </g>
     </g>
